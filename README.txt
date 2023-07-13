@@ -1,2 +1,2 @@
-abcdefghijklmnopqrstuvwxyz
-zyxwnutsrqponmlkjihgfedcba
+こんにちは
+こんにちは
